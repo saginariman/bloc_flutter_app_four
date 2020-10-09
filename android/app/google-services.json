@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1013636672109",
+    "firebase_url": "https://blockapp-600a8.firebaseio.com",
+    "project_id": "blockapp-600a8",
+    "storage_bucket": "blockapp-600a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013636672109:android:f911a0b7bb16ec20bced64",
+        "android_client_info": {
+          "package_name": "com.example.bloc_flutter_app_four"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013636672109-besbavmjfm7ub3mav9n08uj5r6fc4aq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoee_-xNPdw5VTVF_AuheClW7ytYaxtNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013636672109-besbavmjfm7ub3mav9n08uj5r6fc4aq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
